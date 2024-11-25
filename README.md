@@ -37,7 +37,7 @@ Follow these steps to build your Java GUI application:
 3. **Write the GUI Code**:
    - Copy the provided code into `Main.java`.
    -Copy the following code into your `Main.java` file:
-   ```java
+```java
 import javax.swing.*; // Import the Swing library for GUI components
 import java.awt.event.ActionEvent; // Import the ActionEvent class for handling events
 import java.awt.event.ActionListener; // Import the ActionListener interface for event listening
